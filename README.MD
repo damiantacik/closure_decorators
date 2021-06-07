@@ -38,3 +38,25 @@
 --- | --- | ---
 0 | 1 | 2 
 -3 | -2 | -1 
+
+
+# Programming main rules:
+- DRY - don't repeat yourself
+- KISS - keep it simple, stupid!
+
+## Higher order function
+- function, which get declaration of function as parameter
+
+## First class function
+- all functions are objects
+
+# Decorators:
+
+## 3 variance
+- function decorator <---------
+- class decorator
+- design pattern (the best way to solve problem)
+
+## How to create:
+1. Create function using closure
+2. Add annotation with at and name od decorator above decorated function
